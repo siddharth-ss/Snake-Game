@@ -42,6 +42,13 @@ Use the arrow keys to control the snake:
 - **←** — Move Left
 - **→** — Move Right
 
+## Gameplay Tips
+
+- Plan turns ahead instead of waiting until the snake reaches a wall.
+- Keep enough open space to turn safely as the snake grows.
+- Watch the score and the snake's body position before moving toward food.
+- When experimenting with the code, change one behavior at a time and test it in a short game.
+
 ## Project Structure
 
 ```text
